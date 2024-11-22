@@ -1,0 +1,4 @@
+(executable
+ (name space_invaders)
+ (modules Space_invaders)
+ (libraries mtime.clock raylib))
